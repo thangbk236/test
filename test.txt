@@ -5,5 +5,5 @@ day la dau
 haha
 
 sub ne
-toi la ai
-kia la gi
+
+lai sub ne
