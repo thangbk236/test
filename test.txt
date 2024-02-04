@@ -7,3 +7,5 @@ haha
 sub ne
 
 lai sub ne
+
+lai sub1 ne
