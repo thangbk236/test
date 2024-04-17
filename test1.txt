@@ -7,3 +7,6 @@ sub 10
 sub 15
 sub17
 sub18
+sub 19;
+sub20
+sub21
