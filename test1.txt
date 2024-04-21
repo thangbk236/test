@@ -45,3 +45,5 @@ test3
 test4
 main1
 main2
+sub1
+sub2
