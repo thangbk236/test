@@ -41,3 +41,4 @@ check4
 check5
 sub1
 kaka1
+test merge 1
