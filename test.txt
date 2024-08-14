@@ -51,3 +51,11 @@ main test1 cherry pick v1
 main test1 cherry pick v3
 
 hehe
+hehe1
+
+ban lam gi day
+rebase thi co gi
+rebase thi co gi1
+co ai o dau khong
+log 1
+commit 3
